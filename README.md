@@ -1,5 +1,9 @@
 # 🌍 Disaster Classification From Twitter (X) Using IndoBERT & BiLSTM
 
+# <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/cf9a67cd-bc62-4302-b897-55c891234539" /> Colab Version
+
+https://colab.research.google.com/drive/1aeoPzk3guQ7SP9Vu-L40ncbwXf1pO85v?usp=sharing
+
 # 📂 Dataset
 
 📥 Source:  
